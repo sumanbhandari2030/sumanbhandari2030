@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumanbhandari2030
 - 👀 I’m interested in Coding , Deep 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript (Web Development)
 - 💞️ I’m looking to collaborate on - projects
 -  📫 How to reach me ...thesuman2030@gmail.com
 
